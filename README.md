@@ -1,4 +1,0 @@
-fitsample
-=========
-
-for fitness sample
